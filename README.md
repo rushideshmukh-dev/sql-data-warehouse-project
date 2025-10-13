@@ -7,15 +7,15 @@ Designed as a portfolio project highlights industry best practices in data engin
 
 ---------------------------------
 
-### Project Requirements
+### 📘Project Requirements
 
 ### Building the Data Warchouse (Data Engineering)
 
-### Objective 
+### 🎯 Objective 
 
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-### Specifications 
+### 📋 Specifications 
 
 **Data Sources**  : Import data from two source systems (ERP and CRM) provided as CSV files 
 **Data Quality**  : Cleanse and resolve data quality issues prior to analysis. 
@@ -25,7 +25,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 --------------------------------------
 
-### BI: Analytics & Reporting (Data Analytics)
+### 📈 BI: Analytics & Reporting (Data Analytics)
 
 #### Objective 
 
@@ -39,7 +39,7 @@ These insights empower stakeholders with key business metrics,ebabling startegic
 
 ------------------------------------
 
-## About Me 
+## 👨‍💻 About Me 
 
 👋 Hi there! I am Rushikesh, having expertise into Data Analytics , Business Analyst and Product Management.  I’m diving into the world of Data Warehousing with SQL and Tableau.
 🚀 Excited about turning complex datasets into clear, interactive stories that drive business insight.
