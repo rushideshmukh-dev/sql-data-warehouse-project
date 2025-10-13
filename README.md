@@ -39,6 +39,14 @@ These insights empower stakeholders with key business metrics,ebabling startegic
 
 ------------------------------------
 
+🧩 Key Learnings
+
+-Data modeling and schema design for analytics.
+-SQL-based ETL and data transformation.
+-Tableau dashboard development for KPI visualization.
+-Integration of BI tools with warehouse architecture.
+
+
 ## 👨‍💻 About Me 
 
 👋 Hi there! I am Rushikesh, having expertise into Data Analytics , Business Analyst and Product Management.  I’m diving into the world of Data Warehousing with SQL and Tableau.
