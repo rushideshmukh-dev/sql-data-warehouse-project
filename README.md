@@ -7,6 +7,17 @@ Designed as a portfolio project highlights industry best practices in data engin
 
 ---------------------------------
 
+### Project Overview :
+
+This project involves
+
+1.Data Architecture : Designing a Modern Data Warehouse using Medallion Architecture Bronze, Silver and Gold Layer.
+2.ETL Pipelines : Extracting , Transforming and Loading data from source system into the Warehouse
+3.Data Modelling : Developing Fact and Dimension Tables optimized for analytical queries.
+4.Analytics and Reporting : Creating SQL-based reports and dashboard for actionable insights.
+
+----------------------------------
+
 ### 📘Project Requirements
 
 ### Building the Data Warchouse (Data Engineering)
@@ -17,10 +28,14 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ### 📋 Specifications 
 
-**Data Sources**  : Import data from two source systems (ERP and CRM) provided as CSV files 
+**Data Sources**  : Import data from two source systems (ERP and CRM) provided as CSV files
+
 **Data Quality**  : Cleanse and resolve data quality issues prior to analysis. 
+
 **Integration**   : Combine both sources into a single, user-friendly data model designed for analytical queries. 
-**Scope**         :        Focus on the latest dataset only; historization of data is not required. 
+
+**Scope**         : Focus on the latest dataset only; historization of data is not required. 
+
 **Documentation** : Provide clear documentation H data mnodel to support both business stakeholders and analytics teams.
 
 --------------------------------------
