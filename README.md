@@ -12,8 +12,11 @@ Designed as a portfolio project highlights industry best practices in data engin
 This project involves
 
 1.Data Architecture : Designing a Modern Data Warehouse using Medallion Architecture Bronze, Silver and Gold Layer.
+
 2.ETL Pipelines : Extracting , Transforming and Loading data from source system into the Warehouse
+
 3.Data Modelling : Developing Fact and Dimension Tables optimized for analytical queries.
+
 4.Analytics and Reporting : Creating SQL-based reports and dashboard for actionable insights.
 
 ----------------------------------
